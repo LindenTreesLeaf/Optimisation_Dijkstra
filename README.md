@@ -10,6 +10,7 @@ Un compte-rendu du projet décrivant les différentes approches et partis pris a
 __Prérequis__
 - Compilateur C (GCC)
 - Make
+
 __Compilation et exécution__
 ```
 make
